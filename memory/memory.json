@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "02-06-2026 10:27",
+    "source": "sample_docs/sampledoc.txt",
+    "obligations": [
+      "Implement digital record keeping systems in their offices by 31st March 2024.",
+      "Appoint a nodal officer for digital records by 28th February 2024.",
+      "Submit a compliance report to GAD by 5th April 2024.",
+      "Ensure all staff complete digital literacy training by 31st March 2024."
+    ],
+    "deadlines": [
+      "5th April 2024",
+      "28th February 2024",
+      "31st March 2024"
+    ],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  },
+  {
+    "timestamp": "02-06-2026 10:36",
+    "source": "sample_docs/sampledoc.txt",
+    "obligations": [
+      "Implement digital record keeping systems in their offices by 31st March 2024.",
+      "Appoint a nodal officer for digital records by 28th February 2024.",
+      "Submit a compliance report to GAD by 5th April 2024.",
+      "Ensure all staff complete digital literacy training by 31st March 2024."
+    ],
+    "deadlines": [
+      "28th February 2024",
+      "31st March 2024",
+      "5th April 2024"
+    ],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  },
+  {
+    "timestamp": "02-06-2026 11:54",
+    "source": "sample_docs/temp_input.txt",
+    "obligations": [
+      "All physical records related to land, revenue, and public grievance departments shall be digitized",
+      "Monthly progress reports shall be submitted to the General Administration Department on or before",
+      "Any delay or non-compliance shall be reported immediately to the Chief Secretary, Government of"
+    ],
+    "deadlines": [],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  },
+  {
+    "timestamp": "03-06-2026 10:25",
+    "source": "sample_docs/temp_input.txt",
+    "obligations": [
+      "Implement digital record keeping systems by 31st March 2024.",
+      "Appoint a nodal officer for digital records by 28th February 2024.",
+      "Submit a compliance report to GAD by 5th April 2024.",
+      "Ensure all staff complete digital literacy training by 31st March 2024."
+    ],
+    "deadlines": [
+      "5th April 2024",
+      "31st March 2024",
+      "28th February 2024"
+    ],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  },
+  {
+    "timestamp": "03-06-2026 11:51",
+    "source": "sample_docs/temp_input.txt",
+    "obligations": [
+      "Implement digital record keeping systems by 31st March 2024.",
+      "Appoint a nodal officer for digital records by 28th February 2024.",
+      "Submit a compliance report to GAD by 5th April 2024.",
+      "Ensure all staff complete digital literacy training by 31st March 2024."
+    ],
+    "deadlines": [
+      "28th February 2024",
+      "31st March 2024",
+      "5th April 2024"
+    ],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  },
+  {
+    "timestamp": "03-06-2026 11:56",
+    "source": "sample_docs/temp_input.txt",
+    "obligations": [
+      "Implement digital record keeping systems by 31st March 2024.",
+      "Appoint a nodal officer for digital records by 28th February 2024.",
+      "Submit a compliance report to GAD by 5th April 2024.",
+      "Ensure all staff complete digital literacy training by 31st March 2024."
+    ],
+    "deadlines": [
+      "28th February 2024",
+      "31st March 2024",
+      "5th April 2024"
+    ],
+    "authorities": [
+      "Chief Secretary",
+      "Collector",
+      "Secretary"
+    ]
+  }
+]
